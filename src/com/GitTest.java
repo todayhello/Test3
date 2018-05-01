@@ -17,6 +17,7 @@ public class GitTest {
 	
 	public String me2(){
 		System.out.println(2);
+		System.out.println(22);
 		return null;
 	}
 }
