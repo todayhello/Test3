@@ -5,5 +5,6 @@ public class GitTest {
 		Student student = new Student();
 		System.out.println(student);
 		System.out.println(2);
+		System.out.println(1);
 	}
 }
