@@ -1,6 +1,6 @@
 package com;
 
-public class Teacher {
+public class Teacher2 {
 	private Integer age;
 	private String name;
 
