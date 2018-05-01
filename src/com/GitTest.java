@@ -9,4 +9,14 @@ public class GitTest {
 		System.out.println(3);
 		System.out.println(4);
 	}
+	
+	public String me1(){
+		System.out.println(1);
+		return null;
+	}
+	
+	public String me2(){
+		System.out.println(2);
+		return null;
+	}
 }
